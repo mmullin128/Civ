@@ -1,0 +1,16 @@
+0 Peasant.do_nothing
+1 Peasant.farm
+2 Peasant.move_right
+3 Peasant.move_up
+4 Peasant.move_down
+5 Peasant.farm
+6 Peasant.move_vision_cursor_right
+7 Peasant.move_vision_cursor_up
+8 Peasant.move_vision_cursor_left
+9 Peasant.move_vision_cursor_down
+10 Peasant.farm
+11 Peasant.plant
+12 Peasant.harvest
+13 Peasant.eat
+14 Peasant.drop
+15 Peasant.pick_up

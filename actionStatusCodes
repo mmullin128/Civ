@@ -1,0 +1,15 @@
+0 do_nothing
+1 move_right
+2 move_up 
+3 move_left
+4 move_down
+5 move_vision_cursor_right
+6 move_vision_cursor_up 
+7 move_vision_cursor_left
+8 move_vision_cursor_down
+9 farm
+10 plant
+11 harvest
+12 eat
+13 drop
+14 pick_up

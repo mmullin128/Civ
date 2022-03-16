@@ -1,0 +1,1 @@
+file = open('script1', 'r')
